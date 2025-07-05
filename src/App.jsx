@@ -46,7 +46,7 @@ function App() {
 
   return (
     <div className={`app ${getBackgroundClass()}`}>
-      <h1>>🔥 Haseeb's Weather Forecast Portal 🔥</h1>
+      <h1>🔥 Haseeb's Weather Forecast Portal 🔥</h1>
 
       <div className="search-box">
         <input
